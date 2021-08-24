@@ -1,2 +1,2 @@
-# blog de práctica
+# blog de practica
 muy lindo blog
